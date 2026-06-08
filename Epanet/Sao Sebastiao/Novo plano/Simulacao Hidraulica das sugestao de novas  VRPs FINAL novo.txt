@@ -1,0 +1,40 @@
+  Page 1                                    Fri Feb 13 08:47:59 2026
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 5 AT TIME 0.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 5 AT TIME 1.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 5 AT TIME 2.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 5 AT TIME 3.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 5 AT TIME 4.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 5 AT TIME 5.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 5 AT TIME 6.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 5 AT TIME 7.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 12 AT TIME 8.0000 HOURS
+
+  Error 204: undefined link VRP.SSB.018_Reativar in [CONTROLS] section:
+   LINK VRP.SSB.018_Reativar 12 AT TIME 9.0000 HOURS
+
+  Error 200: one or more errors in input file

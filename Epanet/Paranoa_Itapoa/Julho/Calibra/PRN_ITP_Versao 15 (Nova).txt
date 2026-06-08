@@ -1,0 +1,12 @@
+  Page 1                                    Tue Jul 22 15:11:33 2025
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Tue Jul 22 15:11:33 2025
+
+  Analysis ended Tue Jul 22 15:11:33 2025

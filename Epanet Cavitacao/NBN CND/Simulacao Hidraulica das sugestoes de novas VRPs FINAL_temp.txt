@@ -1,0 +1,3475 @@
+  Page 1                                    Wed Mar 25 11:58:14 2026
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Wed Mar 25 11:58:14 2026
+
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 911
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 598
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 88 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 767
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 633
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node PM.VRP.GUA.014 disconnected at 0:00:00 hrs
+  WARNING: Node 2550 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: 89 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VZ1.DMC.API.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1610
+  WARNING: System disconnected because of Link 76
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node PM.VRP.NBN.002 disconnected at 0:00:00 hrs
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: 49 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2334
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 44 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2969
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1801
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 3039
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 837 disconnected at 0:00:00 hrs
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: 39 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2544
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 1287
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 386 disconnected at 0:00:00 hrs
+  WARNING: Node 387 disconnected at 0:00:00 hrs
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: 34 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1875
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1784
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1697
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1783
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2900
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2961
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 256
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1768
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2536
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 136 disconnected at 0:00:00 hrs
+  WARNING: Node 137 disconnected at 0:00:00 hrs
+  WARNING: Node 523 disconnected at 0:00:00 hrs
+  WARNING: Node 525 disconnected at 0:00:00 hrs
+  WARNING: Node 526 disconnected at 0:00:00 hrs
+  WARNING: Node 1005 disconnected at 0:00:00 hrs
+  WARNING: Node 1006 disconnected at 0:00:00 hrs
+  WARNING: Node 1007 disconnected at 0:00:00 hrs
+  WARNING: Node 1008 disconnected at 0:00:00 hrs
+  WARNING: Node 1010 disconnected at 0:00:00 hrs
+  WARNING: 10 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1760
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 911
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 598
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 88 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 767
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 633
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node PM.VRP.GUA.014 disconnected at 0:00:00 hrs
+  WARNING: Node 2550 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: 89 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VZ1.DMC.API.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1610
+  WARNING: System disconnected because of Link 76
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node PM.VRP.NBN.002 disconnected at 0:00:00 hrs
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: 49 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2334
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 44 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2969
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1801
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 3039
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 837 disconnected at 0:00:00 hrs
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: 39 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2544
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 1287
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 386 disconnected at 0:00:00 hrs
+  WARNING: Node 387 disconnected at 0:00:00 hrs
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: 34 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1875
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1784
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1697
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1783
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2900
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2961
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 256
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1768
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2536
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 136 disconnected at 0:00:00 hrs
+  WARNING: Node 137 disconnected at 0:00:00 hrs
+  WARNING: Node 523 disconnected at 0:00:00 hrs
+  WARNING: Node 525 disconnected at 0:00:00 hrs
+  WARNING: Node 526 disconnected at 0:00:00 hrs
+  WARNING: Node 1005 disconnected at 0:00:00 hrs
+  WARNING: Node 1006 disconnected at 0:00:00 hrs
+  WARNING: Node 1007 disconnected at 0:00:00 hrs
+  WARNING: Node 1008 disconnected at 0:00:00 hrs
+  WARNING: Node 1010 disconnected at 0:00:00 hrs
+  WARNING: 10 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1760
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 911
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 598
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 88 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 767
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 633
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node PM.VRP.GUA.014 disconnected at 0:00:00 hrs
+  WARNING: Node 2550 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: 89 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VZ1.DMC.API.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1610
+  WARNING: System disconnected because of Link 76
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node PM.VRP.NBN.002 disconnected at 0:00:00 hrs
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: 49 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2334
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 44 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2969
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1801
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 3039
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 837 disconnected at 0:00:00 hrs
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: 39 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2544
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 1287
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 386 disconnected at 0:00:00 hrs
+  WARNING: Node 387 disconnected at 0:00:00 hrs
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: 34 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1875
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1784
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1697
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1783
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2900
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2961
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 256
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1768
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2536
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 136 disconnected at 0:00:00 hrs
+  WARNING: Node 137 disconnected at 0:00:00 hrs
+  WARNING: Node 523 disconnected at 0:00:00 hrs
+  WARNING: Node 525 disconnected at 0:00:00 hrs
+  WARNING: Node 526 disconnected at 0:00:00 hrs
+  WARNING: Node 1005 disconnected at 0:00:00 hrs
+  WARNING: Node 1006 disconnected at 0:00:00 hrs
+  WARNING: Node 1007 disconnected at 0:00:00 hrs
+  WARNING: Node 1008 disconnected at 0:00:00 hrs
+  WARNING: Node 1010 disconnected at 0:00:00 hrs
+  WARNING: 10 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1760
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 911
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 598
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 88 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 767
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 633
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node PM.VRP.GUA.014 disconnected at 0:00:00 hrs
+  WARNING: Node 2550 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: 89 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VZ1.DMC.API.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1610
+  WARNING: System disconnected because of Link 76
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node PM.VRP.NBN.002 disconnected at 0:00:00 hrs
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: 49 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2334
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 44 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2969
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1801
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 3039
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 837 disconnected at 0:00:00 hrs
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: 39 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2544
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 1287
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 386 disconnected at 0:00:00 hrs
+  WARNING: Node 387 disconnected at 0:00:00 hrs
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: 34 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1875
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1784
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1697
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1783
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2900
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2961
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 256
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1768
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2536
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 136 disconnected at 0:00:00 hrs
+  WARNING: Node 137 disconnected at 0:00:00 hrs
+  WARNING: Node 523 disconnected at 0:00:00 hrs
+  WARNING: Node 525 disconnected at 0:00:00 hrs
+  WARNING: Node 526 disconnected at 0:00:00 hrs
+  WARNING: Node 1005 disconnected at 0:00:00 hrs
+  WARNING: Node 1006 disconnected at 0:00:00 hrs
+  WARNING: Node 1007 disconnected at 0:00:00 hrs
+  WARNING: Node 1008 disconnected at 0:00:00 hrs
+  WARNING: Node 1010 disconnected at 0:00:00 hrs
+  WARNING: 10 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1760
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.CND.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.CND.002
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 87 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.CND.003
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.CND.004
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node 2550 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: Node 2566 disconnected at 0:00:00 hrs
+  WARNING: 88 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.GUA.014
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link VRP.NBN.001
+  WARNING: System disconnected because of Link 76
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 43 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.003
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.005
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.002
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: Node 1865 disconnected at 0:00:00 hrs
+  WARNING: 38 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.003
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.004
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: Node 1689 disconnected at 0:00:00 hrs
+  WARNING: Node 1690 disconnected at 0:00:00 hrs
+  WARNING: 31 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.005
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.006
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.007
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.008
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 140 disconnected at 0:00:00 hrs
+  WARNING: Node 141 disconnected at 0:00:00 hrs
+  WARNING: Node 142 disconnected at 0:00:00 hrs
+  WARNING: Node 143 disconnected at 0:00:00 hrs
+  WARNING: Node 144 disconnected at 0:00:00 hrs
+  WARNING: Node 145 disconnected at 0:00:00 hrs
+  WARNING: Node 146 disconnected at 0:00:00 hrs
+  WARNING: Node 147 disconnected at 0:00:00 hrs
+  WARNING: Node 148 disconnected at 0:00:00 hrs
+  WARNING: Node 149 disconnected at 0:00:00 hrs
+  WARNING: 16 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.009
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.010
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.011
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.SPW.010
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.SPW.NOVA.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.SPW.NOVA.002
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 136 disconnected at 0:00:00 hrs
+  WARNING: Node 137 disconnected at 0:00:00 hrs
+  WARNING: Node 523 disconnected at 0:00:00 hrs
+  WARNING: Node 525 disconnected at 0:00:00 hrs
+  WARNING: Node 526 disconnected at 0:00:00 hrs
+  WARNING: Node 1005 disconnected at 0:00:00 hrs
+  WARNING: Node 1006 disconnected at 0:00:00 hrs
+  WARNING: Node 1007 disconnected at 0:00:00 hrs
+  WARNING: Node 1008 disconnected at 0:00:00 hrs
+  WARNING: Node 1010 disconnected at 0:00:00 hrs
+  WARNING: 9 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.SPW.NOVA.003
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 911
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 906
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 598
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1037
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 88 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 767
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 87 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1070
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 633
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 78 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 709
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node PM.VRP.GUA.014 disconnected at 0:00:00 hrs
+  WARNING: Node 2550 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: 89 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VZ1.DMC.API.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: Node 2566 disconnected at 0:00:00 hrs
+  WARNING: Node 2570 disconnected at 0:00:00 hrs
+  WARNING: 87 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1657
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1610
+  WARNING: System disconnected because of Link 76
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1858
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node PM.VRP.NBN.002 disconnected at 0:00:00 hrs
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: 49 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2334
+   
+  WARNING: Maximum trials exceeded at 0:00:00 hrs. System may be unstable.
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: Node 584 disconnected at 0:00:00 hrs
+  WARNING: 47 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2562
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 44 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2969
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 43 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 41
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1801
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1909
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 3039
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2282
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 68
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 837 disconnected at 0:00:00 hrs
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: 39 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2544
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: Node 1865 disconnected at 0:00:00 hrs
+  WARNING: 38 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2631
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 1287
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 2423
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 386 disconnected at 0:00:00 hrs
+  WARNING: Node 387 disconnected at 0:00:00 hrs
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: 34 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1875
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: Node 1689 disconnected at 0:00:00 hrs
+  WARNING: Node 1690 disconnected at 0:00:00 hrs
+  WARNING: 31 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1578
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1784
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1281
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1697
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1267
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1783
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1239
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2900
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1780
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2961
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2259
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 256
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1768
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1707
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2536
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2030
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 136 disconnected at 0:00:00 hrs
+  WARNING: Node 137 disconnected at 0:00:00 hrs
+  WARNING: Node 523 disconnected at 0:00:00 hrs
+  WARNING: Node 525 disconnected at 0:00:00 hrs
+  WARNING: Node 526 disconnected at 0:00:00 hrs
+  WARNING: Node 1005 disconnected at 0:00:00 hrs
+  WARNING: Node 1006 disconnected at 0:00:00 hrs
+  WARNING: Node 1007 disconnected at 0:00:00 hrs
+  WARNING: Node 1008 disconnected at 0:00:00 hrs
+  WARNING: Node 1010 disconnected at 0:00:00 hrs
+  WARNING: 10 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1760
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 136 disconnected at 0:00:00 hrs
+  WARNING: Node 137 disconnected at 0:00:00 hrs
+  WARNING: Node 523 disconnected at 0:00:00 hrs
+  WARNING: Node 525 disconnected at 0:00:00 hrs
+  WARNING: Node 526 disconnected at 0:00:00 hrs
+  WARNING: Node 1005 disconnected at 0:00:00 hrs
+  WARNING: Node 1006 disconnected at 0:00:00 hrs
+  WARNING: Node 1007 disconnected at 0:00:00 hrs
+  WARNING: Node 1008 disconnected at 0:00:00 hrs
+  WARNING: Node 1010 disconnected at 0:00:00 hrs
+  WARNING: 8 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1359
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.CND.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 911
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 906
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 586 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 906
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.CND.002
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 598
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1037
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: Node 18 disconnected at 0:00:00 hrs
+  WARNING: Node 20 disconnected at 0:00:00 hrs
+  WARNING: Node 37 disconnected at 0:00:00 hrs
+  WARNING: Node 86 disconnected at 0:00:00 hrs
+  WARNING: Node 252 disconnected at 0:00:00 hrs
+  WARNING: 70 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1037
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 87 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.CND.003
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 88 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 767
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 87 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1070
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 87 disconnected at 0:00:00 hrs
+  WARNING: Node 93 disconnected at 0:00:00 hrs
+  WARNING: Node 94 disconnected at 0:00:00 hrs
+  WARNING: Node 96 disconnected at 0:00:00 hrs
+  WARNING: Node 98 disconnected at 0:00:00 hrs
+  WARNING: Node 100 disconnected at 0:00:00 hrs
+  WARNING: 87 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1070
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.CND.004
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 633
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 78 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 709
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 66 disconnected at 0:00:00 hrs
+  WARNING: Node 71 disconnected at 0:00:00 hrs
+  WARNING: Node 72 disconnected at 0:00:00 hrs
+  WARNING: Node 73 disconnected at 0:00:00 hrs
+  WARNING: Node 74 disconnected at 0:00:00 hrs
+  WARNING: Node 75 disconnected at 0:00:00 hrs
+  WARNING: Node 76 disconnected at 0:00:00 hrs
+  WARNING: Node 303 disconnected at 0:00:00 hrs
+  WARNING: Node 304 disconnected at 0:00:00 hrs
+  WARNING: Node 305 disconnected at 0:00:00 hrs
+  WARNING: 79 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 633
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node 2550 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: Node 2566 disconnected at 0:00:00 hrs
+  WARNING: 88 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.GUA.014
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node PM.VRP.GUA.014 disconnected at 0:00:00 hrs
+  WARNING: Node 2550 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: 89 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VZ1.DMC.API.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: Node 2566 disconnected at 0:00:00 hrs
+  WARNING: Node 2570 disconnected at 0:00:00 hrs
+  WARNING: 87 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1657
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 2067 disconnected at 0:00:00 hrs
+  WARNING: Node 2138 disconnected at 0:00:00 hrs
+  WARNING: Node 2139 disconnected at 0:00:00 hrs
+  WARNING: Node 2551 disconnected at 0:00:00 hrs
+  WARNING: Node 2552 disconnected at 0:00:00 hrs
+  WARNING: Node 2553 disconnected at 0:00:00 hrs
+  WARNING: Node 2555 disconnected at 0:00:00 hrs
+  WARNING: Node 2563 disconnected at 0:00:00 hrs
+  WARNING: Node 2566 disconnected at 0:00:00 hrs
+  WARNING: Node 2570 disconnected at 0:00:00 hrs
+  WARNING: 87 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1657
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link VRP.NBN.001
+  WARNING: System disconnected because of Link 76
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1610
+  WARNING: System disconnected because of Link 76
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1858
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 674 disconnected at 0:00:00 hrs
+  WARNING: Node 675 disconnected at 0:00:00 hrs
+  WARNING: Node 678 disconnected at 0:00:00 hrs
+  WARNING: Node 679 disconnected at 0:00:00 hrs
+  WARNING: Node 680 disconnected at 0:00:00 hrs
+  WARNING: Node 700 disconnected at 0:00:00 hrs
+  WARNING: Node 766 disconnected at 0:00:00 hrs
+  WARNING: Node 788 disconnected at 0:00:00 hrs
+  WARNING: Node 789 disconnected at 0:00:00 hrs
+  WARNING: Node 1307 disconnected at 0:00:00 hrs
+  WARNING: 76 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1409
+  WARNING: System disconnected because of Link 1858
+  WARNING: System disconnected because of Link 342
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node PM.VRP.NBN.002 disconnected at 0:00:00 hrs
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: 49 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2334
+   
+  WARNING: Maximum trials exceeded at 0:00:00 hrs. System may be unstable.
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: Node 584 disconnected at 0:00:00 hrs
+  WARNING: 47 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2562
+   
+  WARNING: Maximum trials exceeded at 0:00:00 hrs. System may be unstable.
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 107 disconnected at 0:00:00 hrs
+  WARNING: Node 108 disconnected at 0:00:00 hrs
+  WARNING: Node 109 disconnected at 0:00:00 hrs
+  WARNING: Node 110 disconnected at 0:00:00 hrs
+  WARNING: Node 111 disconnected at 0:00:00 hrs
+  WARNING: Node 119 disconnected at 0:00:00 hrs
+  WARNING: Node 120 disconnected at 0:00:00 hrs
+  WARNING: Node 121 disconnected at 0:00:00 hrs
+  WARNING: Node 150 disconnected at 0:00:00 hrs
+  WARNING: Node 584 disconnected at 0:00:00 hrs
+  WARNING: 47 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2562
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 43 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.003
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 44 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2969
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 43 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 41
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 129 disconnected at 0:00:00 hrs
+  WARNING: Node 130 disconnected at 0:00:00 hrs
+  WARNING: Node 132 disconnected at 0:00:00 hrs
+  WARNING: Node 133 disconnected at 0:00:00 hrs
+  WARNING: Node 484 disconnected at 0:00:00 hrs
+  WARNING: Node 485 disconnected at 0:00:00 hrs
+  WARNING: Node 547 disconnected at 0:00:00 hrs
+  WARNING: Node 548 disconnected at 0:00:00 hrs
+  WARNING: Node 549 disconnected at 0:00:00 hrs
+  WARNING: Node 670 disconnected at 0:00:00 hrs
+  WARNING: 44 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2969
+  WARNING: System disconnected because of Link 2502
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.005
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1801
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1909
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 115 disconnected at 0:00:00 hrs
+  WARNING: Node 116 disconnected at 0:00:00 hrs
+  WARNING: Node 124 disconnected at 0:00:00 hrs
+  WARNING: Node 125 disconnected at 0:00:00 hrs
+  WARNING: Node 126 disconnected at 0:00:00 hrs
+  WARNING: Node 127 disconnected at 0:00:00 hrs
+  WARNING: Node 128 disconnected at 0:00:00 hrs
+  WARNING: Node 528 disconnected at 0:00:00 hrs
+  WARNING: Node 543 disconnected at 0:00:00 hrs
+  WARNING: Node 544 disconnected at 0:00:00 hrs
+  WARNING: 134 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1909
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 3039
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2282
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 365 disconnected at 0:00:00 hrs
+  WARNING: Node 1012 disconnected at 0:00:00 hrs
+  WARNING: Node 1013 disconnected at 0:00:00 hrs
+  WARNING: Node 1015 disconnected at 0:00:00 hrs
+  WARNING: Node 1016 disconnected at 0:00:00 hrs
+  WARNING: Node 1017 disconnected at 0:00:00 hrs
+  WARNING: Node 1018 disconnected at 0:00:00 hrs
+  WARNING: Node 1021 disconnected at 0:00:00 hrs
+  WARNING: Node 1022 disconnected at 0:00:00 hrs
+  WARNING: Node 1023 disconnected at 0:00:00 hrs
+  WARNING: 17 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2282
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.002
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 68
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 157 disconnected at 0:00:00 hrs
+  WARNING: Node 161 disconnected at 0:00:00 hrs
+  WARNING: Node 163 disconnected at 0:00:00 hrs
+  WARNING: Node 190 disconnected at 0:00:00 hrs
+  WARNING: Node 193 disconnected at 0:00:00 hrs
+  WARNING: Node 194 disconnected at 0:00:00 hrs
+  WARNING: Node 195 disconnected at 0:00:00 hrs
+  WARNING: Node 196 disconnected at 0:00:00 hrs
+  WARNING: Node 197 disconnected at 0:00:00 hrs
+  WARNING: 51 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 68
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: Node 1865 disconnected at 0:00:00 hrs
+  WARNING: 38 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.003
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 837 disconnected at 0:00:00 hrs
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: 39 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2544
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: Node 1865 disconnected at 0:00:00 hrs
+  WARNING: 38 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2631
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 1802 disconnected at 0:00:00 hrs
+  WARNING: Node 1803 disconnected at 0:00:00 hrs
+  WARNING: Node 1804 disconnected at 0:00:00 hrs
+  WARNING: Node 1818 disconnected at 0:00:00 hrs
+  WARNING: Node 1830 disconnected at 0:00:00 hrs
+  WARNING: Node 1832 disconnected at 0:00:00 hrs
+  WARNING: Node 1833 disconnected at 0:00:00 hrs
+  WARNING: Node 1834 disconnected at 0:00:00 hrs
+  WARNING: Node 1849 disconnected at 0:00:00 hrs
+  WARNING: Node 1865 disconnected at 0:00:00 hrs
+  WARNING: 38 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2631
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.004
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 1287
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 2423
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 122 disconnected at 0:00:00 hrs
+  WARNING: Node 154 disconnected at 0:00:00 hrs
+  WARNING: Node 480 disconnected at 0:00:00 hrs
+  WARNING: Node 589 disconnected at 0:00:00 hrs
+  WARNING: Node 590 disconnected at 0:00:00 hrs
+  WARNING: Node 992 disconnected at 0:00:00 hrs
+  WARNING: Node 1103 disconnected at 0:00:00 hrs
+  WARNING: Node 1105 disconnected at 0:00:00 hrs
+  WARNING: Node 1107 disconnected at 0:00:00 hrs
+  WARNING: Node 1108 disconnected at 0:00:00 hrs
+  WARNING: 28 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2698
+  WARNING: System disconnected because of Link 2423
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: Node 1689 disconnected at 0:00:00 hrs
+  WARNING: Node 1690 disconnected at 0:00:00 hrs
+  WARNING: 31 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.005
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 386 disconnected at 0:00:00 hrs
+  WARNING: Node 387 disconnected at 0:00:00 hrs
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: 34 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1875
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: Node 1689 disconnected at 0:00:00 hrs
+  WARNING: Node 1690 disconnected at 0:00:00 hrs
+  WARNING: 31 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1578
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 503 disconnected at 0:00:00 hrs
+  WARNING: Node 505 disconnected at 0:00:00 hrs
+  WARNING: Node 506 disconnected at 0:00:00 hrs
+  WARNING: Node 708 disconnected at 0:00:00 hrs
+  WARNING: Node 975 disconnected at 0:00:00 hrs
+  WARNING: Node 1685 disconnected at 0:00:00 hrs
+  WARNING: Node 1686 disconnected at 0:00:00 hrs
+  WARNING: Node 1688 disconnected at 0:00:00 hrs
+  WARNING: Node 1689 disconnected at 0:00:00 hrs
+  WARNING: Node 1690 disconnected at 0:00:00 hrs
+  WARNING: 31 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1578
+  WARNING: System disconnected because of Link 3090
+  WARNING: System disconnected because of Link 1288
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.006
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1784
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1281
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 652 disconnected at 0:00:00 hrs
+  WARNING: Node 653 disconnected at 0:00:00 hrs
+  WARNING: Node 654 disconnected at 0:00:00 hrs
+  WARNING: Node 684 disconnected at 0:00:00 hrs
+  WARNING: Node 685 disconnected at 0:00:00 hrs
+  WARNING: Node 863 disconnected at 0:00:00 hrs
+  WARNING: Node 864 disconnected at 0:00:00 hrs
+  WARNING: Node 865 disconnected at 0:00:00 hrs
+  WARNING: Node 866 disconnected at 0:00:00 hrs
+  WARNING: Node 867 disconnected at 0:00:00 hrs
+  WARNING: 64 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1753
+  WARNING: System disconnected because of Link 1281
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.007
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1697
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1267
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 176 disconnected at 0:00:00 hrs
+  WARNING: Node 177 disconnected at 0:00:00 hrs
+  WARNING: Node 178 disconnected at 0:00:00 hrs
+  WARNING: Node 179 disconnected at 0:00:00 hrs
+  WARNING: Node 180 disconnected at 0:00:00 hrs
+  WARNING: Node 181 disconnected at 0:00:00 hrs
+  WARNING: Node 369 disconnected at 0:00:00 hrs
+  WARNING: Node 586 disconnected at 0:00:00 hrs
+  WARNING: Node 587 disconnected at 0:00:00 hrs
+  WARNING: Node 588 disconnected at 0:00:00 hrs
+  WARNING: 21 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1267
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.008
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1783
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1239
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 103 disconnected at 0:00:00 hrs
+  WARNING: Node 314 disconnected at 0:00:00 hrs
+  WARNING: Node 641 disconnected at 0:00:00 hrs
+  WARNING: Node 642 disconnected at 0:00:00 hrs
+  WARNING: Node 647 disconnected at 0:00:00 hrs
+  WARNING: Node 648 disconnected at 0:00:00 hrs
+  WARNING: Node 686 disconnected at 0:00:00 hrs
+  WARNING: Node 710 disconnected at 0:00:00 hrs
+  WARNING: Node 875 disconnected at 0:00:00 hrs
+  WARNING: Node 876 disconnected at 0:00:00 hrs
+  WARNING: 91 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 342
+  WARNING: System disconnected because of Link 1239
+  WARNING: System disconnected because of Link 1699
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 140 disconnected at 0:00:00 hrs
+  WARNING: Node 141 disconnected at 0:00:00 hrs
+  WARNING: Node 142 disconnected at 0:00:00 hrs
+  WARNING: Node 143 disconnected at 0:00:00 hrs
+  WARNING: Node 144 disconnected at 0:00:00 hrs
+  WARNING: Node 145 disconnected at 0:00:00 hrs
+  WARNING: Node 146 disconnected at 0:00:00 hrs
+  WARNING: Node 147 disconnected at 0:00:00 hrs
+  WARNING: Node 148 disconnected at 0:00:00 hrs
+  WARNING: Node 149 disconnected at 0:00:00 hrs
+  WARNING: 16 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.009
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 140 disconnected at 0:00:00 hrs
+  WARNING: Node 141 disconnected at 0:00:00 hrs
+  WARNING: Node 142 disconnected at 0:00:00 hrs
+  WARNING: Node 143 disconnected at 0:00:00 hrs
+  WARNING: Node 144 disconnected at 0:00:00 hrs
+  WARNING: Node 145 disconnected at 0:00:00 hrs
+  WARNING: Node 146 disconnected at 0:00:00 hrs
+  WARNING: Node 147 disconnected at 0:00:00 hrs
+  WARNING: Node 148 disconnected at 0:00:00 hrs
+  WARNING: Node 149 disconnected at 0:00:00 hrs
+  WARNING: 16 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1918
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.010
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2900
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1780
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 320 disconnected at 0:00:00 hrs
+  WARNING: Node 1968 disconnected at 0:00:00 hrs
+  WARNING: Node 2111 disconnected at 0:00:00 hrs
+  WARNING: Node 2282 disconnected at 0:00:00 hrs
+  WARNING: Node 2330 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1780
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.NBN.NOVA.011
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2961
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2259
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 245 disconnected at 0:00:00 hrs
+  WARNING: Node 247 disconnected at 0:00:00 hrs
+  WARNING: Node 249 disconnected at 0:00:00 hrs
+  WARNING: Node 391 disconnected at 0:00:00 hrs
+  WARNING: Node 798 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2259
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.SPW.010
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 256
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs.
+  WARNING: Node 0 disconnected at 0:00:00 hrs
+  WARNING: Node 1 disconnected at 0:00:00 hrs
+  WARNING: Node 2 disconnected at 0:00:00 hrs
+  WARNING: Node 5 disconnected at 0:00:00 hrs
+  WARNING: Node 10 disconnected at 0:00:00 hrs
+  WARNING: Node 11 disconnected at 0:00:00 hrs
+  WARNING: Node 12 disconnected at 0:00:00 hrs
+  WARNING: Node 15 disconnected at 0:00:00 hrs
+  WARNING: Node 16 disconnected at 0:00:00 hrs
+  WARNING: Node 17 disconnected at 0:00:00 hrs
+  WARNING: 1621 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 260
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.SPW.NOVA.001
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1768
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1707
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 366 disconnected at 0:00:00 hrs
+  WARNING: Node 367 disconnected at 0:00:00 hrs
+  WARNING: Node 1043 disconnected at 0:00:00 hrs
+  WARNING: Node 1079 disconnected at 0:00:00 hrs
+  WARNING: Node 2465 disconnected at 0:00:00 hrs
+  WARNING: Node 2510 disconnected at 0:00:00 hrs
+  WARNING: Node 2513 disconnected at 0:00:00 hrs
+  WARNING: Node 2514 disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 1707
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link VRP.SPW.NOVA.002
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2536
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconnected at 0:00:00 hrs
+  WARNING: 15 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2030
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 593 disconnected at 0:00:00 hrs
+  WARNING: Node 594 disconnected at 0:00:00 hrs
+  WARNING: Node 662 disconnected at 0:00:00 hrs
+  WARNING: Node 1032 disconnected at 0:00:00 hrs
+  WARNING: Node 1033 disconnected at 0:00:00 hrs
+  WARNING: Node 1078 disconnected at 0:00:00 hrs
+  WARNING: Node 2114 disconnected at 0:00:00 hrs
+  WARNING: Node 2115 disconnected at 0:00:00 hrs
+  WARNING: Node 2116 disconnected at 0:00:00 hrs
+  WARNING: Node 2117 disconne

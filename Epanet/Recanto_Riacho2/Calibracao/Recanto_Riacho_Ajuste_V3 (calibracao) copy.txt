@@ -1,0 +1,40 @@
+  Page 1                                    Thu Sep 25 14:00:52 2025
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  23                	1166.42         	0.0             	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  24                	1166.41         	0.0             	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  25                	1166.63         	0.0             	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  26                	1166.63         	0.0             	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  37                	1149.99         	0.0             	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  38                	1149.96         	0.00223         	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  64                	1134.13         	0.011092        	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  65                	1134.1          	0.0             	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  308               	1151.6          	0.125469        	PadraoVRP.RCE.002	;
+
+  Error 205: undefined time pattern PadraoVRP.RCE.002 in [JUNCTIONS] section:
+  309               	1152.3          	0.119359        	PadraoVRP.RCE.002	;
+
+  Error 200: one or more errors in input file
